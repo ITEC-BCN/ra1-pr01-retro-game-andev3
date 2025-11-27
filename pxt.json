@@ -1,5 +1,6 @@
 {
     "name": "JuegoFinalAnmolDenis",
+    "name": "mapa actualizado #2",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -14,6 +15,11 @@
         "tilemap.g.ts",
         "images.g.jres",
         "images.g.ts"
+        "images.g.jres",
+        "images.g.ts",
+        "tilemap.g.jres",
+        "tilemap.g.ts",
+        "main.py"
     ],
     "testFiles": [
         "test.ts"
